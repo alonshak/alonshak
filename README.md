@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi! im a Devops Engineer that is currently learning new tools 
+and new softwares in order to build more projects!
 
 <!--
 **alonshak/alonshak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
